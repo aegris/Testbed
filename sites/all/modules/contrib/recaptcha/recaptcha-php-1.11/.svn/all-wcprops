@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha-php-1.11
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha-php-1.11/LICENSE
+END
+example-captcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha-php-1.11/example-captcha.php
+END
+recaptchalib.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha-php-1.11/recaptchalib.php
+END
+example-mailhide.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha-php-1.11/example-mailhide.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha-php-1.11/README
+END

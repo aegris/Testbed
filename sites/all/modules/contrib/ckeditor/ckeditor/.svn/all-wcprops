@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor
+END
+ckeditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor/ckeditor.js
+END
+ckeditor_source.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor/ckeditor_source.js
+END
+ckeditor_basic.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor/ckeditor_basic.js
+END
+ckeditor_basic_source.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor/ckeditor_basic_source.js
+END
+config.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor/config.js
+END
+contents.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor/contents.css
+END
+LICENSE.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor/LICENSE.html
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor/.htaccess
+END
+CHANGES.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/ckeditor/ckeditor/CHANGES.html
+END

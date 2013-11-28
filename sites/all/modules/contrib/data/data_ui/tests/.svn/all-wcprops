@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_ui/tests
+END
+data_ui_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_ui/tests/data_ui_test.info
+END
+data_ui.test
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_ui/tests/data_ui.test
+END
+data_ui_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_ui/tests/data_ui_test.module
+END
+data_ui_test.install
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_ui/tests/data_ui_test.install
+END

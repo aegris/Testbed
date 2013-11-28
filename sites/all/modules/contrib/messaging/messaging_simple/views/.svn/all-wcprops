@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_simple/views
+END
+messaging_simple.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_simple/views/messaging_simple.views.inc
+END
+messaging_simple_handler_field_body.inc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_simple/views/messaging_simple_handler_field_body.inc
+END

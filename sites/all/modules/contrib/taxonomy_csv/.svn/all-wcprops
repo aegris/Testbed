@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv
+END
+taxonomy_csv.term.api.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/taxonomy_csv.term.api.inc
+END
+taxonomy_csv.vocabulary.api.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/taxonomy_csv.vocabulary.api.inc
+END
+taxonomy_csv.info
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/taxonomy_csv.info
+END
+taxonomy_csv.help.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/taxonomy_csv.help.html
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/TODO.txt
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/INSTALL.txt
+END
+taxonomy_csv.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/taxonomy_csv.drush.inc
+END
+taxonomy_csv.install
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/taxonomy_csv.install
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/LICENSE.txt
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/CHANGELOG.txt
+END
+taxonomy_csv.api.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/taxonomy_csv.api.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/README.txt
+END
+taxonomy_csv.module
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/taxonomy_csv.module
+END
+TECHINFO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/TECHINFO.txt
+END
+taxonomy_csv.result.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/taxonomy_csv/taxonomy_csv.result.inc
+END

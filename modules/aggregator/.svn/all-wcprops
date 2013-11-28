@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator
+END
+aggregator.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.api.php
+END
+aggregator-summary-items.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator-summary-items.tpl.php
+END
+aggregator.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.admin.inc
+END
+aggregator-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator-wrapper.tpl.php
+END
+aggregator.parser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.parser.inc
+END
+aggregator.install
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.install
+END
+aggregator.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.pages.inc
+END
+aggregator-summary-item.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator-summary-item.tpl.php
+END
+aggregator.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.test
+END
+aggregator-item.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator-item.tpl.php
+END
+aggregator-feed-source.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator-feed-source.tpl.php
+END
+aggregator.module
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.module
+END
+aggregator.processor.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.processor.inc
+END
+aggregator-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator-rtl.css
+END
+aggregator.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.css
+END
+aggregator.fetcher.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.fetcher.inc
+END
+aggregator.info
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/aggregator.info
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/views
+END
+workbench_edited.view.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/views/workbench_edited.view.inc
+END
+workbench_current_user.view.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/views/workbench_current_user.view.inc
+END
+workbench_recent_content.view.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/views/workbench_recent_content.view.inc
+END

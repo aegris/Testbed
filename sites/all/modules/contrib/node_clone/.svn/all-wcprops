@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/LICENSE.txt
+END
+clone.module
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/clone.module
+END
+clone.install
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/clone.install
+END
+clone.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/clone.pages.inc
+END
+clone.info
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/clone.info
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/README.txt
+END
+clone.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/clone.api.php
+END

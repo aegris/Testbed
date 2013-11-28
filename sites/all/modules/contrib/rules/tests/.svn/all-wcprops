@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/tests
+END
+rules_test.test.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/tests/rules_test.test.inc
+END
+rules_test.rules_defaults.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/tests/rules_test.rules_defaults.inc
+END
+rules_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/tests/rules_test.info
+END
+rules.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/tests/rules.test
+END
+rules_test.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/tests/rules_test.rules.inc
+END
+rules_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/tests/rules_test.module
+END

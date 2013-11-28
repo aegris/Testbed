@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests
+END
+feeds_xpathparser_parser_xml.test
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests/feeds_xpathparser_parser_xml.test
+END
+feeds_xpathparser.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests/feeds_xpathparser.test
+END
+feeds_xpathparser_parser_html.test
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests/feeds_xpathparser_parser_html.test
+END
+feeds_xpathparser_query_parser.test
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests/feeds_xpathparser_query_parser.test
+END

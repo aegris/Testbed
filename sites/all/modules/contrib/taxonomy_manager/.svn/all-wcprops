@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/taxonomy_manager
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/taxonomy_manager/LICENSE.txt
+END
+taxonomy_manager.info
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/taxonomy_manager/taxonomy_manager.info
+END
+taxonomy_manager.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/taxonomy_manager/taxonomy_manager.admin.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/taxonomy_manager/README.txt
+END
+taxonomy_manager.module
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/taxonomy_manager/taxonomy_manager.module
+END
+taxonomy_manager.install
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/taxonomy_manager/taxonomy_manager.install
+END

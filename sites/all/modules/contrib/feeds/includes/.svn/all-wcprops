@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/includes
+END
+FeedsConfigurable.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/includes/FeedsConfigurable.inc
+END
+FeedsSource.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/includes/FeedsSource.inc
+END
+FeedsImporter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/includes/FeedsImporter.inc
+END

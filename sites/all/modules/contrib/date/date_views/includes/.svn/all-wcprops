@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/date/date_views/includes
+END
+date_plugin_display_attachment.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/date/date_views/includes/date_plugin_display_attachment.inc
+END
+date_views_argument_handler.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/date/date_views/includes/date_views_argument_handler.inc
+END
+date_views_filter_handler.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/date/date_views/includes/date_views_filter_handler.inc
+END
+date_views_fields.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/date/date_views/includes/date_views_fields.inc
+END
+date_views_argument_handler_simple.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/date/date_views/includes/date_views_argument_handler_simple.inc
+END
+date_views_filter_handler_simple.inc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/date/date_views/includes/date_views_filter_handler_simple.inc
+END
+date_views.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/date/date_views/includes/date_views.views.inc
+END
+date_views_plugin_pager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/date/date_views/includes/date_views_plugin_pager.inc
+END

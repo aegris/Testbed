@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes
+END
+notifications_views_handler_field_subscription_link.inc
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_field_subscription_link.inc
+END
+notifications_views_handler_field_machine_name.inc
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_field_machine_name.inc
+END
+notifications_views_handler_field_subscription_link_edit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_field_subscription_link_edit.inc
+END
+notifications_views.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views.views.inc
+END
+notifications_views_handler_field_subscription_link_delete.inc
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_field_subscription_link_delete.inc
+END
+notifications_views_handler_argument_subscription_type.inc
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_argument_subscription_type.inc
+END
+notifications_views_handler_field_subscription_type.inc
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_field_subscription_type.inc
+END
+notifications_views_handler_filter_subscription_type.inc
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_filter_subscription_type.inc
+END
+notifications_views_handler_field_subscription_interval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_field_subscription_interval.inc
+END
+notifications_views_handler_filter_subscription_interval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_filter_subscription_interval.inc
+END
+notifications_views_handler_argument_subscription_send_method.inc
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_argument_subscription_send_method.inc
+END
+notifications_views_handler_field_subscription_send_method.inc
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_field_subscription_send_method.inc
+END
+notifications_views_handler_field_body.inc
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_field_body.inc
+END
+notifications_views_handler_relationship.inc
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_relationship.inc
+END
+notifications_views_handler_filter_subscription_send_method.inc
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_filter_subscription_send_method.inc
+END
+notifications_views_handler_argument_autocomplete.inc
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_views/includes/notifications_views_handler_argument_autocomplete.inc
+END

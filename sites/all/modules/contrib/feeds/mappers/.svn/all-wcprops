@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/mappers
+END
+number.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/mappers/number.inc
+END
+path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/mappers/path.inc
+END
+date.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/mappers/date.inc
+END
+link.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/mappers/link.inc
+END
+taxonomy.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/mappers/taxonomy.inc
+END
+file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/mappers/file.inc
+END
+profile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/mappers/profile.inc
+END
+text.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/mappers/text.inc
+END

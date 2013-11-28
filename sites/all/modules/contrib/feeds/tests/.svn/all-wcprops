@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests
+END
+feeds_date_time.test
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_date_time.test
+END
+feeds_parser_syndication.test
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_parser_syndication.test
+END
+feeds_mapper_path.test
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_mapper_path.test
+END
+feeds_mapper_link.test
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_mapper_link.test
+END
+parser_csv.test
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/parser_csv.test
+END
+common_syndication_parser.test
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/common_syndication_parser.test
+END
+feeds_mapper_profile.test
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_mapper_profile.test
+END
+feeds_processor_term.test
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_processor_term.test
+END
+feeds_tests.module
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_tests.module
+END
+feeds_mapper_config.test
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_mapper_config.test
+END
+feeds_processor_user.test
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_processor_user.test
+END
+feeds_parser_sitemap.test
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_parser_sitemap.test
+END
+feeds_scheduler.test
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_scheduler.test
+END
+feeds_tests.info
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_tests.info
+END
+feeds_fetcher_file.test
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_fetcher_file.test
+END
+feeds.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds.test
+END
+feeds_mapper_date.test
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_mapper_date.test
+END
+feeds_mapper_taxonomy.test
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_mapper_taxonomy.test
+END
+feeds_mapper_file.test
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_mapper_file.test
+END
+feeds_mapper.test
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_mapper.test
+END
+feeds_processor_node.test
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_processor_node.test
+END
+feeds_mapper_field.test
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds_mapper_field.test
+END

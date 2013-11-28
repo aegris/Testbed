@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_search
+END
+data_search.module
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_search/data_search.module
+END
+data_search.install
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_search/data_search.install
+END
+data_search.info
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_search/data_search.info
+END
+data_search.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_search/data_search.admin.inc
+END

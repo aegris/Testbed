@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/formblock
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/formblock/LICENSE.txt
+END
+formblock.module
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/formblock/formblock.module
+END
+formblock.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/formblock/formblock.css
+END
+formblock.info
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/formblock/formblock.info
+END
+formblock.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/formblock/formblock.js
+END

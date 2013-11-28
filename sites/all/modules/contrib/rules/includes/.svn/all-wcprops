@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/includes
+END
+rules.processor.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/includes/rules.processor.inc
+END
+rules.state.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/includes/rules.state.inc
+END
+rules.plugins.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/includes/rules.plugins.inc
+END
+rules.upgrade.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/includes/rules.upgrade.inc
+END
+faces.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/includes/faces.inc
+END
+rules.core.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/includes/rules.core.inc
+END

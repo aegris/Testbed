@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_forms
+END
+ds_forms.module
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_forms/ds_forms.module
+END
+ds_forms.install
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_forms/ds_forms.install
+END
+ds_forms.info
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_forms/ds_forms.info
+END

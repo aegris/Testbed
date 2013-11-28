@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules
+END
+taxonomy.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/taxonomy.rules.inc
+END
+user.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/user.rules.inc
+END
+system.eval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/system.eval.inc
+END
+node.eval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/node.eval.inc
+END
+system.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/system.rules.inc
+END
+php.eval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/php.eval.inc
+END
+node.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/node.rules.inc
+END
+php.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/php.rules.inc
+END
+path.eval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/path.eval.inc
+END
+path.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/path.rules.inc
+END
+rules_core.eval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/rules_core.eval.inc
+END
+rules_core.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/rules_core.rules.inc
+END
+comment.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/comment.rules.inc
+END
+data.eval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/data.eval.inc
+END
+entity.eval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/entity.eval.inc
+END
+data.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/data.rules.inc
+END
+events.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/events.inc
+END
+user.eval.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/user.eval.inc
+END
+entity.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/modules/entity.rules.inc
+END

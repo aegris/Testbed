@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/staffingsolutions/!svn/ver/49/trunk/web/sites/all/themes/staffing/zen-internals
+END
+screenshot.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/zen-internals/screenshot.png
+END
+zen.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/zen-internals/zen.drush.inc
+END
+template.theme-registry.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/zen-internals/template.theme-registry.inc
+END
+template.zen.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/zen-internals/template.zen.inc
+END

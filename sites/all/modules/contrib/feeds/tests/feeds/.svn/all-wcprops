@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds
+END
+googlenewstz.rss2
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/googlenewstz.rss2
+END
+magento.rss1
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/magento.rss1
+END
+feeds-tests-flickr.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/feeds-tests-flickr.tpl.php
+END
+nodes.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/nodes.tsv
+END
+drupalplanet.rss2
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/drupalplanet.rss2
+END
+many_nodes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/many_nodes.csv
+END
+feed_without_guid.rss2
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/feed_without_guid.rss2
+END
+nodes.csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/nodes.csv.php
+END
+earthquake-georss.atom
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/earthquake-georss.atom
+END
+nodes_changes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/nodes_changes.csv
+END
+profile.csv
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/profile.csv
+END
+sitemap-example.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/sitemap-example.xml
+END
+users.csv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/users.csv
+END
+path_alias.csv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/path_alias.csv
+END
+nodes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/nodes.csv
+END
+developmentseed_changes.rss2
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/developmentseed_changes.rss2
+END
+content.csv
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/content.csv
+END
+feeds-tests-files.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/feeds-tests-files.tpl.php
+END
+developmentseed.rss2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/tests/feeds/developmentseed.rss2
+END

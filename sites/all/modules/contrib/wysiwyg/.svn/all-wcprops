@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg
+END
+wysiwyg.init.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg.init.js
+END
+wysiwyg.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg.api.php
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/LICENSE.txt
+END
+wysiwyg.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg.admin.inc
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/CHANGELOG.txt
+END
+wysiwyg.api.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg.api.js
+END
+wysiwyg.module
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg.module
+END
+wysiwyg.install
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg.install
+END
+wysiwyg.dialog.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg.dialog.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/README.txt
+END
+wysiwyg.info
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg.info
+END
+wysiwyg.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg.js
+END
+wysiwyg-dialog-page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/wysiwyg/wysiwyg-dialog-page.tpl.php
+END

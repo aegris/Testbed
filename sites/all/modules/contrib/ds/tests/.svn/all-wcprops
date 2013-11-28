@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests
+END
+ds_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests/ds_test.info
+END
+ds.views.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests/ds.views.test
+END
+ds.entities.test
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests/ds.entities.test
+END
+ds.search.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests/ds.search.test
+END
+ds.forms.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests/ds.forms.test
+END
+ds_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests/ds_test.module
+END
+ds.exportables.test
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests/ds.exportables.test
+END
+ds.base.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests/ds.base.test
+END
+ds_test.views_default.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/tests/ds_test.views_default.inc
+END

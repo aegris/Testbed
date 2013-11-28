@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions/trunk/web/sites/all/modules/contrib/rb/example%20features/promotion_sync
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36556e00-a0cf-4d36-ac4e-503ece5862a4
+
+example_rule_promotion_syncronization.strongarm.inc
+file
+
+
+
+add
+
+example_rule_promotion_syncronization.module
+file
+
+
+
+add
+
+example_rule_promotion_syncronization.features.inc
+file
+
+
+
+add
+
+example_rule_promotion_syncronization.features.field.inc
+file
+
+
+
+add
+
+example_rule_promotion_syncronization.rules_defaults.inc
+file
+
+
+
+add
+
+example_rule_promotion_syncronization.info
+file
+
+
+
+add
+

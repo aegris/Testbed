@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/devel/krumo
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/devel/krumo/LICENSE
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/devel/krumo/TODO
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/devel/krumo/VERSION
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/devel/krumo/INSTALL
+END
+class.krumo.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/devel/krumo/class.krumo.php
+END
+krumo.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/devel/krumo/krumo.js
+END
+krumo.ini
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/devel/krumo/krumo.ini
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/devel/krumo/README
+END

@@ -1,0 +1,104 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f37\froman\fcharset238\fprq2 Times New Roman CE;}{\f38\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f41\froman\fcharset162\fprq2 Times New Roman Tur;}{\f42\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f43\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f47\fswiss\fcharset238\fprq2 Arial CE;}{\f48\fswiss\fcharset204\fprq2 Arial Cyr;}{\f50\fswiss\fcharset161\fprq2 Arial Greek;}{\f51\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f52\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f53\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f54\fswiss\fcharset186\fprq2 Arial Baltic;}{\f55\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f57\fmodern\fcharset238\fprq1 Courier New CE;}
+{\f58\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f60\fmodern\fcharset161\fprq1 Courier New Greek;}{\f61\fmodern\fcharset162\fprq1 Courier New Tur;}{\f62\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f63\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f64\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f65\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\langfe1033\cgrid\langfenp1033 \snext0 Normal;}{\s1\ql \li0\ri0\sb440\sa60\nowidctlpar\faauto\outlinelevel0\rin0\lin0\itap0 
+\b\f1\fs34\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 1;}{\s2\ql \li0\ri0\sb440\sa60\nowidctlpar\faauto\outlinelevel1\rin0\lin0\itap0 \b\f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 
+heading 2;}{\s3\ql \li0\ri0\sb440\sa60\nowidctlpar\faauto\outlinelevel2\rin0\lin0\itap0 \b\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 3;}{
+\s4\ql \li0\ri0\sb440\sa60\nowidctlpar\faauto\outlinelevel3\rin0\lin0\itap0 \b\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 4;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\sb240\sa119\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs28\langfe1033\cgrid\langfenp1033 \sbasedon0 \snext44 Heading;}{\s16\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 Contents 1;}{
+\s17\ql \fi-430\li1440\ri0\nowidctlpar\faauto\rin0\lin1440\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 Contents 2;}{\s18\ql \fi-430\li2160\ri0\nowidctlpar\faauto\rin0\lin2160\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 Contents 3;}{\s19\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext19 Lower Roman List;}{
+\s20\ql \li0\ri0\nowidctlpar\tx431\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon1 \snext0 Numbered Heading 1;}{\s21\ql \li0\ri0\nowidctlpar\tx431\faauto\rin0\lin0\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon2 \snext0 Numbered Heading 2;}{\s22\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext22 Square List;}{
+\s23\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext23 \ssemihidden endnote text;}{\s24\ql \li0\ri0\nowidctlpar\tx1584\faauto\rin0\lin0\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon20 \snext0 Chapter Heading;}{\s25\ql \fi-430\li2880\ri0\nowidctlpar\faauto\rin0\lin2880\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 Contents 4;}{
+\s26\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext26 Diamond List;}{\s27\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext27 Numbered List;}{\*\cs28 \additive \fs20 Reference;}{\s29\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext29 
+Triangle List;}{\s30\ql \li0\ri0\nowidctlpar\tx431\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon3 \snext0 Numbered Heading 3;}{\s31\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext31 Dashed List;}{\s32\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon27 \snext32 Upper Roman List;}{
+\s33\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext33 Heart List;}{\s34\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext34 Tick List;}{\s35\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon27 \snext35 Lower Case List;}{
+\s36\ql \li1440\ri1440\sa119\nowidctlpar\faauto\rin1440\lin1440\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext36 Block Text;}{\*\cs37 \additive \fs20 Reference2;}{
+\s38\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon27 \snext38 Upper Case List;}{\s39\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext39 Bullet List;}{\s40\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext40 Hand List;}{
+\s41\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext41 \ssemihidden footnote text;}{\s42\qc \li0\ri0\sb240\sa119\nowidctlpar\faauto\rin0\lin0\itap0 
+\b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 Contents Header;}{\s43\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext43 Box List;}{
+\s44\ql \li0\ri0\sa119\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\langfe1033\cgrid\langfenp1033 \sbasedon0 \snext44 Text body;}{\s45\ql \li0\ri0\sb119\sa119\nowidctlpar\faauto\rin0\lin0\itap0 \i\fs24\langfe1033\cgrid\langfenp1033 
+\sbasedon0 \snext0 \ssemihidden caption;}{\s46\ql \li0\ri0\sa119\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\langfe1033\cgrid\langfenp1033 \sbasedon44 \snext46 List;}{\s47\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f2\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext47 Plain Text;}{\s48\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\langfe1033\cgrid\langfenp1033 \sbasedon0 \snext48 Index;}{
+\s49\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext49 Implies List;}{\s50\ql \fi-430\li720\ri0\nowidctlpar\faauto\rin0\lin720\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext50 Star List;}{\*\cs51 \additive \fs20 Reference1;}{\s52\ql \li0\ri0\nowidctlpar\tx1584\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon20 \snext0 
+Section Heading;}}{\*\rsidtbl \rsid8458142\rsid15548928}{\*\generator Microsoft Word 10.0.2627;}{\info{\author John Q Public}{\operator John Q Public}{\creatim\yr2012\mo4\dy25\hr16\min33}{\revtim\yr2012\mo4\dy25\hr16\min38}
+{\printim\yr2012\mo4\dy25\hr16\min35}{\version3}{\edmins5}{\nofpages2}{\nofwords585}{\nofchars3340}{\*\company Oregon Employment Department}{\nofcharsws3918}{\vern16437}}\margl1134\margr1134\margt1134\margb1134 
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale114\viewzk2\nolnhtadjtbl\rsidroot15548928 \fet0\sectd 
+\sbknone\linex0\footery414\colsx360\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs24\langfe1033\cgrid\langfenp1033 {
+\insrsid8458142                                                               }{\b\insrsid8458142 Kevin S. Morris}{\insrsid8458142 
+\par                                                              }{\i\insrsid8458142 Cell-541-291-8302}{\insrsid8458142 
+\par                                                             
+\par }{\b\insrsid8458142 Overview: }{\fs20\insrsid8458142 
+Seeking Work In sales experience and interested in professional work environment and                                                                                                                                             }{\fs20\insrsid15548928       
+}{\fs20\insrsid8458142 Training Opportunities In Any Position}{\b\insrsid8458142 
+\par }{\fs20\insrsid8458142 
+\par }{\b\insrsid8458142 Experience: }{\b\fs22\ul\insrsid8458142 Fred Meyer Co. (2005 \endash  2010) }{\b\i\fs20\ul\insrsid8458142 Furniture/lights Section head (2008-2010)}{\b\insrsid8458142 
+\par                     }{\b\fs20\insrsid8458142  - }{\fs20\insrsid8458142 Customer service and correspondence on special orders}{\b\insrsid8458142 
+\par }{\fs20\insrsid8458142                          - Inventory maintenance, special orders, repair and inventory transfers
+\par                          - Assemble furniture, setup special merchandise displays to store specs
+\par                          - Pricing, Federal background check on firearm sales
+\par                           }{\b\i\fs20\ul\insrsid8458142 Electronics Price Changer/Journeyman (2008-2007)}{\fs20\insrsid8458142 
+\par }{\b\insrsid8458142                      }{\b\fs20\insrsid8458142 - }{\fs20\insrsid8458142 Weekly ads, pricing, computer database, inventory information look up}{\b\insrsid8458142 
+\par }{\fs20\insrsid8458142                          -  Merchandise and display build up
+\par                          - Cleanup/opening and closing procedures  
+\par }{\b\insrsid8458142                    }{\b\i\insrsid8458142   }{\b\i\fs20\ul\insrsid8458142 Electronics Night Lead Freight Clerk (2005-2007)}{\b\insrsid8458142 
+\par                      }{\fs20\insrsid8458142 - Trailer on/off loading, freight breakdown, merchandising and display of new products}{\b\insrsid8458142 
+\par }\pard \qj \fi-1260\li1260\ri0\widctlpar\faauto\rin0\lin1260\itap0 {\fs20\insrsid8458142               }{\fs20\insrsid15548928            }{\fs20\insrsid8458142 - Cycle stockroom inventory, process returns/refurbished items, scan out damage and defective 
+salvage                                                                                 - Open/close photo-lab/film processing, equipment shutdown, chemical refill, cleanup and waste dispensing  
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\insrsid8458142                      }{\b\fs20\ul\insrsid8458142 MGT (Mendenhall Glacier Transport) (2005)}{\b\i\fs20\ul\insrsid8458142   Tour Sales}{\fs20\ul\insrsid8458142  }{\b\insrsid8458142 
+
+\par }{\b\fs20\insrsid8458142                      }{\fs20\insrsid8458142      - Booth setu}{\fs20\insrsid15548928 p}{\fs20\insrsid8458142 , interacting with tourist vendors and assisting with reservations}{\b\fs20\insrsid8458142 
+\par }{\fs20\insrsid8458142                          - Tracking cruise ships
+\par                          - Greeting tourist, providing information and directions, ticket sales, helicopter and bus tours
+\par                          }{\b\fs20\ul\insrsid8458142\charrsid8458142 Gross Alaska Theaters Inc. (2003-2005)  }{\b\i\fs20\ul\insrsid8458142\charrsid8458142 Concessions/Box Office/Projections}{\fs20\ul\insrsid8458142\charrsid8458142 
+\par }{\b\insrsid8458142                      }{\fs20\insrsid8458142   - Customer assistance, food prep and stock count, dish washing/lobby/auditorium cleanup}{\b\insrsid8458142 
+\par }{\fs20\insrsid8458142                           - Cashiering, bookkeeping, synopsis, movie info, show times and poster display
+\par                           - Accounting all gross income of ticket sales, making change and bank deposits
+\par                           - Film handling and manager a}{\fs20\insrsid8458142 ssistance, }{\fs20\insrsid8458142 film splicing, projection equipment maintenance
+\par                           - Promotional display setup
+\par }{\insrsid8458142                   }{\fs20\insrsid8458142   }{\b\fs20\ul\insrsid8458142 Alaska & Proud (2001) Boxer}{\insrsid8458142 
+\par }{\b\fs20\insrsid8458142                           }{\fs20\insrsid8458142 - Grocery bagger, and customer carry out }{\b\fs20\insrsid8458142 
+\par }{\b\fs20\ul\insrsid8458142 Training and Certification:}{\b\fs20\insrsid8458142  }{\fs20\insrsid8458142  }{\b\fs20\ul\insrsid8458142 
+\par }{\fs20\insrsid8458142                            -First Aid/CPR Adult and Infant/AED
+\par                            -Hazmat, chemical hazard and USDS
+\par                            -Fork lift certified of hydraulic and gas
+\par                            -Clerical and cashier till open/closing
+\par                            -Microsoft Excel, Word, Open Office, Outlook, Lotus notes
+\par                            -Navigation of company financial, inventory and employee information databases 
+\par }{\b\fs20\ul\insrsid8458142 Personal Skills and Qualifications
+\par }{\fs20\insrsid8458142                             -Operation of personal and industrial sized scanners, faxes, and printers
+\par                             -10 key proficient 
+\par \tab               -Communicative and formidable in problem solving
+\par                             -Computer tear down and rebuild, repair and upgrade maintenance
+\par                             -Construction, home improvement, electrical appliance and window repair}{\fs20\insrsid15548928 
+\par 
+\par                                                                    }{\b\i\fs28\ul\insrsid15548928\charrsid15548928 References upon request
+\par }{\fs20\insrsid8458142           
+\par                     
+\par                         
+\par                          
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\insrsid8458142                       
+\par                   
+\par }{\lang1033\langfe1033\langnp1033\insrsid8458142 
+\par }}

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/staffingsolutions/!svn/ver/5/trunk/web/modules/help
+END
+help.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/staffingsolutions/!svn/ver/5/trunk/web/modules/help/help.css
+END
+help.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/staffingsolutions/!svn/ver/5/trunk/web/modules/help/help.info
+END
+help.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/staffingsolutions/!svn/ver/5/trunk/web/modules/help/help.api.php
+END
+help.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/staffingsolutions/!svn/ver/5/trunk/web/modules/help/help.test
+END
+help.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/staffingsolutions/!svn/ver/5/trunk/web/modules/help/help.admin.inc
+END
+help.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/staffingsolutions/!svn/ver/5/trunk/web/modules/help/help.module
+END
+help-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/staffingsolutions/!svn/ver/5/trunk/web/modules/help/help-rtl.css
+END

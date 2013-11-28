@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions/trunk/web/sites/all/modules/contrib/rb/example%20features/login_redirect
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36556e00-a0cf-4d36-ac4e-503ece5862a4
+
+example_rules_login_redirect.module
+file
+
+
+
+add
+
+example_rules_login_redirect.rules_defaults.inc
+file
+
+
+
+add
+
+example_rules_login_redirect.info
+file
+
+
+
+add
+

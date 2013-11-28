@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/LICENSE.txt
+END
+FeedsXPathParserXML.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/FeedsXPathParserXML.inc
+END
+feeds_xpathparser.info
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/feeds_xpathparser.info
+END
+FeedsXPathParserQueryParser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/FeedsXPathParserQueryParser.inc
+END
+FeedsXPathParserDOMXPath.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/FeedsXPathParserDOMXPath.inc
+END
+FeedsXPathParserHTML.inc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/FeedsXPathParserHTML.inc
+END
+FeedsXPathParserBase.inc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/FeedsXPathParserBase.inc
+END
+feeds_xpathparser.module
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/feeds_xpathparser.module
+END
+feeds_xpathparser.install
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/feeds_xpathparser.install
+END

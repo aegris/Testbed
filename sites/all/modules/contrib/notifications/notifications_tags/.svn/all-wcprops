@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_tags
+END
+notifications_tags.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_tags/notifications_tags.inc
+END
+notifications_tags.info
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_tags/notifications_tags.info
+END
+notifications_tags.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_tags/notifications_tags.admin.inc
+END
+notifications_tags.module
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_tags/notifications_tags.module
+END
+notifications_tags.install
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_tags/notifications_tags.install
+END

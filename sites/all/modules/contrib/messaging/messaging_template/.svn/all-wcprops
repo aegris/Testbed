@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_template
+END
+messaging_template.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_template/messaging_template.inc
+END
+messaging_template.info
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_template/messaging_template.info
+END
+messaging_template.module
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_template/messaging_template.module
+END
+messaging_template_body_plain.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_template/messaging_template_body_plain.tpl.php
+END
+messaging_template_body_html.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_template/messaging_template_body_html.tpl.php
+END

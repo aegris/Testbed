@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/tests
+END
+notifications_anonymous.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/tests/notifications_anonymous.test
+END
+notifications_api.test
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/tests/notifications_api.test
+END
+notifications_content.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/tests/notifications_content.test
+END
+notifications_custom.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/tests/notifications_custom.test
+END
+notifications_lite.test
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/tests/notifications_lite.test
+END
+notifications_templates.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/tests/notifications_templates.test
+END
+notifications_test_case.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/tests/notifications_test_case.inc
+END

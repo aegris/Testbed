@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/content_access_rules
+END
+content_access_rules.info
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/content_access_rules/content_access_rules.info
+END
+content_access_rules.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/content_access_rules/content_access_rules.rules.inc
+END
+content_access_rules.module
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/content_access_rules/content_access_rules.module
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/views
+END
+clone.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/views/clone.views.inc
+END
+views_handler_field_node_link_clone.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/node_clone/views/views_handler_field_node_link_clone.inc
+END

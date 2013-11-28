@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/LICENSE.txt
+END
+data.info
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data.info
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/CHANGELOG.txt
+END
+data.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data.api.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/README.txt
+END
+data.module
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data.module
+END
+data.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data.views.inc
+END
+data.install
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data.install
+END

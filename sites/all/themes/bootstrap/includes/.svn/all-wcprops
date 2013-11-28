@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/staffingsolutions/!svn/ver/43/trunk/web/sites/all/themes/bootstrap/includes
+END
+admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/43/trunk/web/sites/all/themes/bootstrap/includes/admin.inc
+END
+bootstrap.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/43/trunk/web/sites/all/themes/bootstrap/includes/bootstrap.inc
+END
+pager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/43/trunk/web/sites/all/themes/bootstrap/includes/pager.inc
+END
+theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/43/trunk/web/sites/all/themes/bootstrap/includes/theme.inc
+END
+form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/43/trunk/web/sites/all/themes/bootstrap/includes/form.inc
+END
+menu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/43/trunk/web/sites/all/themes/bootstrap/includes/menu.inc
+END

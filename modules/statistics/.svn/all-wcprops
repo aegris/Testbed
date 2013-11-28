@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/staffingsolutions/!svn/ver/5/trunk/web/modules/statistics
+END
+statistics.install
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/staffingsolutions/!svn/ver/5/trunk/web/modules/statistics/statistics.install
+END
+statistics.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/5/trunk/web/modules/statistics/statistics.pages.inc
+END
+statistics.info
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/staffingsolutions/!svn/ver/5/trunk/web/modules/statistics/statistics.info
+END
+statistics.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/staffingsolutions/!svn/ver/5/trunk/web/modules/statistics/statistics.tokens.inc
+END
+statistics.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/staffingsolutions/!svn/ver/5/trunk/web/modules/statistics/statistics.test
+END
+statistics.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/5/trunk/web/modules/statistics/statistics.admin.inc
+END
+statistics.module
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/staffingsolutions/!svn/ver/5/trunk/web/modules/statistics/statistics.module
+END

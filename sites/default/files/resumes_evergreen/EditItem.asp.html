@@ -1,0 +1,265 @@
+
+<html>
+<head>
+	<link rel="stylesheet" href="/layout/css/common.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/common.css" type="text/css">
+	<script src="/layout/javascript/common.js" type="text/javascript"></script>
+	<script src="/layout/javascript/behaviour.js" type="text/javascript"></script>
+	<script src="/layout/javascript/prototype.js" type="text/javascript"></script>
+		<script language="JavaScript" src="/assets/javascript/jquery.js"></script>
+		<script type="TEXT/JAVASCRIPT">
+		$(document).ready(function(){  
+			$("#Job_Category_Id").change(function(){  
+				$.ajax({
+					url: "/cust/employment/ajaxhosts/load_select/",
+					type: "POST",
+					data: $('#Form1').serialize(),
+					cache: false,
+					success: function(data) {
+						$("#spanid_Job_Type_Id").html(data);
+					}
+				});
+			return false;  
+			});  
+		});  
+		</script>
+	
+</head>
+	<body class="EG-Body">
+		<form method="post" action="/cust/employment/admin/EditItem.asp" id="Form1"> 
+			<table width=100% border="0" cellpadding="0" cellspacing="0" class="EG-TabSet"> 
+				<tr height="1"> 
+					<td class="EG-FormTitle" height="1">Jobs Module >  Edit Job </td>
+				</tr> 
+				<tr height="1"> 
+					<td>&nbsp;
+					</td> 
+				</tr>
+				
+			    
+				<tr height="20">
+					<td valign="top">
+						<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td id="Tab1" class="EG-TabActive" onClick="Tab1()">Details</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+	
+				<tr> 
+					<td class="EG-TabBody"  valign="top">
+	      
+					<div id="TabContent1"  style="display:block;height=100%;"> 
+						<!-- Render current content from db --> 
+						<table width="100%" border="0" cellspacing="2" cellpadding="2" class="EG-Form" height=100% valign=top > 
+							<tr> 
+								<td height="1" width="20%"></td> 
+								<td height="1" width="80%"></td> 
+							</tr>
+
+		                                        <tr> 
+								<td class="EG-ColTitle">Submitted from site:</td> 
+								<td height="1" width="80%">Tuesday, October 23rd 2012</td> 
+							</tr>
+							
+<tr>
+	<td class="EG-ColTitle">Status:</td>
+	<td ><span id="spanid_Status">
+<span id="spanid_Status">
+<select name="Status" id="Status" >
+	<option value="0">Choose One</option>
+	<option value="1"  selected>Website submission/Inactive</option>
+	<option value="2">Inactive</option>
+	<option value="3">New Job/Active</option>
+	<option value="4">Interviewing</option>
+	<option value="5">Offer Pending</option>
+</select></span></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Client Company Name:</td>
+	<td >
+<span id="spanid_Company_Name"><input name="Company_Name" type="text" value="Law Office of Robert M Gregg" id="Company_Name"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Business Type:</td>
+	<td >
+<span id="spanid_Business_Type"><input name="Business_Type" type="text" value="" id="Business_Type"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">SSLLC Job Manager Person:</td>
+	<td >
+<span id="spanid_Contact_Person"><input name="Contact_Person" type="text" value="Jessica Gregg" id="Contact_Person"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">SSLLC Job Manager Phone:</td>
+	<td >
+<span id="spanid_Phone"><input name="Phone" type="text" value="360.694.6505" id="Phone"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">SSLLC Job Manager Email:</td>
+	<td >
+<span id="spanid_Contact_Email"><input name="Contact_Email" type="text" value="paralegal.jessica@gmail.com" id="Contact_Email"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Client Address:</td>
+	<td >
+<span id="spanid_Address"><input name="Address" type="text" value="" id="Address"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Client City:</td>
+	<td >
+<span id="spanid_City"><input name="City" type="text" value="" id="City"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Client State:</td>
+	<td >
+<span id="spanid_State"><input name="State" type="text" value="" id="State"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Client Zip:</td>
+	<td >
+<span id="spanid_Zip"><input name="Zip" type="text" value="" id="Zip"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Country:</td>
+	<td >
+<span id="spanid_Country"><input name="Country" type="text" value="" id="Country"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Number of Positions:</td>
+	<td >
+<span id="spanid_Number_of_Positions"><input name="Number_of_Positions" type="text" value="" id="Number_of_Positions"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Job Category:</td>
+	<td ><span id="spanid_Job_Category_Id">
+<span id="spanid_Job_Category_Id">
+<select name="Job_Category_Id" id="Job_Category_Id" >
+	<option value="0">Choose One</option>
+	<option value="1">Attorneys</option>
+	<option value="2"  selected>Legal Support</option>
+	<option value="3">Business Services/Office Clerical</option>
+	<option value="4">IT</option>
+	<option value="5">Engineering</option>
+</select></span></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Job Type:</td>
+	<td ><span id="spanid_Job_Type_Id">
+<span id="spanid_Job_Type_Id">
+<select name="Job_Type_Id" id="Job_Type_Id" >
+	<option value="0">Choose One</option>
+	<option value="1">0-5 Years experience</option>
+	<option value="2">5-10 years experience</option>
+	<option value="3">10+ years experience</option>
+	<option value="4"  selected>Paralegal</option>
+	<option value="5">Legal Assistant/ Secretary</option>
+	<option value="6">Project Assistant</option>
+	<option value="7">Receptionist</option>
+	<option value="8">Records / File Clerk</option>
+	<option value="9">Office Services</option>
+	<option value="10">Legal Accounting</option>
+	<option value="11">Accounting Support</option>
+	<option value="12">Finance</option>
+	<option value="13">Purchasing</option>
+	<option value="14">Customer Service</option>
+	<option value="15">Receptionist</option>
+	<option value="16">Clerks / General Office</option>
+	<option value="17">Administrative Assistant</option>
+	<option value="18">Operations</option>
+	<option value="19">General Management</option>
+	<option value="20">Sales</option>
+	<option value="21">Help-Desk / Desktop / PC Support</option>
+	<option value="22">Networking</option>
+	<option value="23">Telecommunications</option>
+	<option value="24">DBA / Database Programmer</option>
+	<option value="25">Programmer / Analyst</option>
+	<option value="26">Systems Analyst</option>
+	<option value="27">Business Analyst</option>
+	<option value="28">Project Manager</option>
+	<option value="29">Software Engineer</option>
+	<option value="30">Software QA</option>
+	<option value="31">Technical Writing / Training</option>
+	<option value="32">Graphic Design / Desktop Publishing</option>
+	<option value="33">Web Design / Developer</option>
+	<option value="34">Other Professional Services</option>
+	<option value="35">CAD Drafter/Designer</option>
+	<option value="36">Mechanical Engineer</option>
+	<option value="37">Electrical Engineer</option>
+	<option value="38">Civil/Structural Engineer</option>
+	<option value="39">Manufacturing Engineering</option>
+</select></span></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Position Title:</td>
+	<td >
+<span id="spanid_Position_Title"><input name="Position_Title" type="text" value="Litigation Paralegal" id="Position_Title"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Assignment Type:</td>
+	<td ><span id="spanid_Assignment_Type_Id">
+<span id="spanid_Assignment_Type_Id">
+<select name="Assignment_Type_Id" id="Assignment_Type_Id" >
+	<option value="0">Choose One</option>
+	<option value="4"  selected>Temporary / Limited Duration</option>
+	<option value="5">Contract-to-Hire</option>
+	<option value="6">Full Time / Direct Hire</option>
+</select></span></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Location:</td>
+	<td >
+<span id="spanid_Job_Location"><input name="Job_Location" type="text" value="" id="Job_Location"></span></td>
+</tr>
+<tr>
+	<td class="EG-ColTitle">Rate/Salary:</td>
+	<td >
+<span id="spanid_Rate_Salary"><input name="Rate_Salary" type="text" value="" id="Rate_Salary"></span></td>
+</tr>
+<span id="spanid_Position_Id"><input name="Position_Id" type="hidden" id="Position_Id" value="PSNH2L064J"></span>
+<span id="spanid_status_old"><input name="status_old" type="hidden" id="status_old" value="1"></span>
+<tr>
+	<td class="EG-ColTitle">Description:</td>
+	<td ><span id="spanid_Long_Description">
+<textarea id="Long_Description" name="Long_Description" rows=4 cols=30 style="display:none;">Your Content Here</textarea>
+<script src="/admin/scripts/innovaeditor.js"  type="text/javascript"></script>
+<script  type="text/javascript">
+		function submitForm()
+			{
+			var FormId = document.getElementById("Long_Description").form.id;
+			FormId.Long_Description.value = oEditLong_Description.getHTMLBody();
+			FormId.submit()
+			}
+		</script>
+		<script  type="text/javascript">
+			var oEditLong_Description = new InnovaEditor("oEditLong_Description");
+			oEditLong_Description.mode="HTMLBody";
+			oEditLong_Description.IsSecurityRestricted = true;
+			oEditLong_Description.width="100%";
+			oEditLong_Description.height="350";
+			oEditLong_Description.css="/assets/css/common.css";
+			oEditLong_Description.onSave = new Function("submitForm()");
+			oEditLong_Description.cmdAssetManager="modalDialogShow('/admin/assetmanager/assetmanager.asp',640,465)";//Use "relative to root" path
+			oEditLong_Description.features=["FullScreen","Print","Search","SpellCheck","|","Cut","Copy","Paste","PasteText","PasteWord","RemoveFormat","Clean","|","Bookmark","Hyperlink","Image","|","Table","Guidelines","|","Characters","Line","Form","ClearAll","BRK","Styles","Paragraph","|","Bold","Italic","Underline","Strikethrough","|","Numbering","Bullets","Indent","Outdent","|","XHTMLSource","|","Undo","Redo"];
+			oEditLong_Description.REPLACE("Long_Description");//Specify the id of the textarea here
+		</script></span></td>
+</tr>
+<span id="spanid_rKey"><input name="rKey" type="hidden" id="rKey" value="1023201240103PMQV5I9D40C2"></span>
+<span id="spanid_Action"><input name="Action" type="hidden" id="Action" value="Save"></span>
+<span id="spanid_Last_Modified"><input name="Last_Modified" type="hidden" id="Last_Modified" value="2013-2-22 23:34:14"></span>
+								<input name="Id" type="hidden" value="507"> 
+								
+								
+<tr>
+	<td colspan="2">
+<span id="spanid_Submit"><input name="Submit" type="Submit" value="Save" id="Submit"></span></td>
+</tr>
+						</table> 
+					</div>
+					</td> 
+				</tr> 
+			</table> 
+		</form> 
+	</body>
+</html>

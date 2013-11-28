@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/admin_views/admin_views_default
+END
+user.admin-people.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/admin_views/admin_views_default/user.admin-people.inc
+END
+taxonomy.admin-content-taxonomy.inc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/admin_views/admin_views_default/taxonomy.admin-content-taxonomy.inc
+END
+book.admin-content-book.inc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/admin_views/admin_views_default/book.admin-content-book.inc
+END
+comment.admin-content-comment.inc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/admin_views/admin_views_default/comment.admin-content-comment.inc
+END
+node.admin-content.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/admin_views/admin_views_default/node.admin-content.inc
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/LICENSE.txt
+END
+calendar.info
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/calendar.info
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/CHANGELOG.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/README.txt
+END
+calendar.module
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/calendar.module
+END
+calendar.install
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/calendar.install
+END

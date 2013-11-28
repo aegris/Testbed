@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update
+END
+update.compare.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.compare.inc
+END
+update.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.api.php
+END
+update.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.test
+END
+update.fetch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.fetch.inc
+END
+update.authorize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.authorize.inc
+END
+update.manager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.manager.inc
+END
+update.report.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.report.inc
+END
+update.module
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.module
+END
+update.install
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.install
+END
+update-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update-rtl.css
+END
+update.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.css
+END
+update.settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.settings.inc
+END
+update.info
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/staffingsolutions/!svn/ver/5/trunk/web/modules/update/update.info
+END

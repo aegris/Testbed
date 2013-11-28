@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates
+END
+maintenance-page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/maintenance-page.tpl.php
+END
+page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/page.tpl.php
+END
+region--footer.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/region--footer.tpl.php
+END
+block--no-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/block--no-wrapper.tpl.php
+END
+comment-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/comment-wrapper.tpl.php
+END
+comment.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/comment.tpl.php
+END
+region.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/region.tpl.php
+END
+html.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/html.tpl.php
+END
+node.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/node.tpl.php
+END
+region--sidebar.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/region--sidebar.tpl.php
+END
+user-picture.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/user-picture.tpl.php
+END
+region--no-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/region--no-wrapper.tpl.php
+END
+block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/staffing/templates/block.tpl.php
+END

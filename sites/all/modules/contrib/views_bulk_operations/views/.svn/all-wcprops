@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/views
+END
+views_bulk_operations.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/views/views_bulk_operations.views.inc
+END
+views_bulk_operations_handler_field_operations.inc
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/views/views_bulk_operations_handler_field_operations.inc
+END

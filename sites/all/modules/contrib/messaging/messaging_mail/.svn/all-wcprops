@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_mail
+END
+messaging_mail.module
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_mail/messaging_mail.module
+END
+messaging_mail.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_mail/messaging_mail.inc
+END
+messaging_mail.info
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_mail/messaging_mail.info
+END
+messaging_mail.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_mail/messaging_mail.admin.inc
+END

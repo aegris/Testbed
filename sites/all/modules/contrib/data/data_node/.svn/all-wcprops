@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_node
+END
+data_node.module
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_node/data_node.module
+END
+data_node.install
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_node/data_node.install
+END
+data_node.css
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_node/data_node.css
+END
+data_node.theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_node/data_node.theme.inc
+END
+data_node.info
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_node/data_node.info
+END
+data_node.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_node/data_node.js
+END
+data_node.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/23/trunk/web/sites/all/modules/contrib/data/data_node/data_node.admin.inc
+END

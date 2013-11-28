@@ -1,0 +1,87 @@
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf270
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww17340\viewh13560\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0  <form name="myform">\
+            <table align="center" border="0" cellpadding="0" cellspacing="5">\
+              <tbody><tr>\
+                <td align="right">\
+\
+                  Name:\
+                </td>\
+                <td>\
+                  <input name="nametext" value="" size="25" maxlength="40" type="text">\
+                </td>\
+              </tr>\
+              <tr>\
+                <td align="right">\
+                  Email Address:\
+                </td>\
+\
+                <td>\
+                  <input name="email" value="" size="25" maxlength="40" type="text">\
+                </td>\
+              </tr>\
+              <tr>\
+                <td>\
+                   \
+                </td>\
+                <td>\
+                  <input name="convtype" value="html" type="radio">\
+\
+                  HTML<br>\
+                  <input name="convtype" value="js" type="radio">\
+                  Javascript\
+                </td>\
+              </tr>\
+              <tr>\
+                <td colspan="2" align="center">\
+                  <input value="Conceal Email" onclick="concealEmail(document.myform);" type="button">\
+                </td>\
+\
+              </tr>\
+              <tr>\
+                <td colspan="2" align="center">\
+                  <textarea name="xx" cols="30" rows="10">                    </textarea>\
+                </td>\
+              </tr>\
+              <tr>\
+                <td colspan="2" align="center">\
+\
+                  <input onclick="javascript:myform.xx.focus();myform.xx.select();" value="Highlight All" type="button">\
+                </td>\
+              </tr>\
+            </tbody></table>\
+          </form>\
+\
+\
+\
+\
+function concealEmail(form) \{\
+2if (form.nametext.value == '') \{alert('name must not be blank'); return false;\}\
+3if (!validateEmail(form.email.value,1,0)) \{alert('email address invalid'); return false;\}\
+4myOption = -1;\
+5 for (i=0; i<form.convtype.length; i++) \{\
+6 if (form.convtype[i].checked) \{\
+7 myOption = i;\
+8 \}\
+9 \}\
+10 if (myOption == -1) \{\
+11 alert("You must select a converversion format");\
+12 return false;\
+13 \}\
+14var s=form.email.value;\
+15var t=form.nametext.value;\
+16var x = '<a href="&#109;a&#105;l&#116;&#111;:';\
+17var y = ''; for (i=0;i<s.length;i++) \{y += '&#' + s.charCodeAt(i) + ';';\}\
+18var z = x+y+'">'+t+'<\\/a>';\
+19if (form.convtype[myOption].value == 'html') \{\
+20form.xx.value = x+y+'">'+t+'<\\/a>';\
+21\} else \{\
+22z=escape('document.write(\\''+z+'\\');');z=z.replace(/\\*/g,'%2a');z=z.replace(/\\+/g,'%2b');z=z.replace(/-/g,'%2d');z=z.replace(/\\./g,'%2e');z=z.replace(/\\//g,'%2f');z=z.replace(/@/g,'%40');z=z.replace(/G/g,'%47');z=z.replace(/H/g,'%48');z=z.replace(/I/g,'%49');z=z.replace(/J/g,'%4a');z=z.replace(/K/g,'%4b');z=z.replace(/L/g,'%4c');z=z.replace(/M/g,'%4d');z=z.replace(/N/g,'%4e');z=z.replace(/O/g,'%4f');z=z.replace(/P/g,'%50');z=z.replace(/Q/g,'%51');z=z.replace(/R/g,'%52');z=z.replace(/z/g,'%53');z=z.replace(/T/g,'%54');z=z.replace(/U/g,'%55');z=z.replace(/V/g,'%56');z=z.replace(/W/g,'%57');z=z.replace(/X/g,'%58');z=z.replace(/Y/g,'%59');z=z.replace(/Z/g,'%5a');z=z.replace(/_/g,'%5f');z=z.replace(/g/g,'%67');z=z.replace(/h/g,'%68');z=z.replace(/i/g,'%69');z=z.replace(/j/g,'%6a');z=z.replace(/k/g,'%6b');z=z.replace(/l/g,'%6c');z=z.replace(/m/g,'%6d');z=z.replace(/n/g,'%6e');z=z.replace(/o/g,'%6f');z=z.replace(/p/g,'%70');z=z.replace(/q/g,'%71');z=z.replace(/r/g,'%72');z=z.replace(/s/g,'%73');z=z.replace(/t/g,'%74');z=z.replace(/u/g,'%75');z=z.replace(/v/g,'%76');z=z.replace(/w/g,'%77');z=z.replace(/x/g,'%78');z=z.replace(/y/g,'%79');z=z.replace(/z/g,'%7a');z = 'eval(unescape(\\'' + z + '\\'));'; form.xx.value = '<script type="text/javascript">'+z+'<\\/script>';\
+23\}\
+24\
+25return false;\
+26\}}

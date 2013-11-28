@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_scheduler
+END
+notifications_scheduler.inc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_scheduler/notifications_scheduler.inc
+END
+notifications_scheduler.info
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_scheduler/notifications_scheduler.info
+END
+notifications_scheduler.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_scheduler/notifications_scheduler.admin.inc
+END
+notifications_scheduler.module
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_scheduler/notifications_scheduler.module
+END
+notifications_scheduler.install
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/notifications/notifications_scheduler/notifications_scheduler.install
+END

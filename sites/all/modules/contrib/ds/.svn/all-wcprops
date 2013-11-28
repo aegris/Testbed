@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/LICENSE.txt
+END
+ds.info
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/ds.info
+END
+ds.ds_fields_info.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/ds.ds_fields_info.inc
+END
+ds.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/ds.api.php
+END
+ds.module
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/ds.module
+END
+ds.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/ds.views.inc
+END
+ds.install
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/ds.install
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/README.txt
+END

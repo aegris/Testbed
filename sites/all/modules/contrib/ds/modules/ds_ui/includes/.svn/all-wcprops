@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_ui/includes
+END
+ds.fields.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_ui/includes/ds.fields.inc
+END
+ds.classes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_ui/includes/ds.classes.inc
+END
+ds.view_modes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_ui/includes/ds.view_modes.inc
+END

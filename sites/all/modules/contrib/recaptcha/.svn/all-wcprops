@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha
+END
+recaptcha.install
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha.install
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/LICENSE.txt
+END
+recaptcha_mailhide.info
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha_mailhide.info
+END
+recaptcha.info
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha.info
+END
+recaptcha.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha.admin.inc
+END
+recaptcha_mailhide.module
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha_mailhide.module
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/README.txt
+END
+recaptcha.module
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/recaptcha/recaptcha.module
+END

@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions/trunk/web/sites/all/modules/contrib/rb/example%20features/promotion_create
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36556e00-a0cf-4d36-ac4e-503ece5862a4
+
+example_rules_create_promotion.module
+file
+
+
+
+add
+
+example_rules_create_promotion.rules_defaults.inc
+file
+
+
+
+add
+
+example_rules_create_promotion.info
+file
+
+
+
+add
+

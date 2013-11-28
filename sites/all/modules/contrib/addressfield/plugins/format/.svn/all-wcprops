@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/addressfield/plugins/format
+END
+name-oneline.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/addressfield/plugins/format/name-oneline.inc
+END
+address-hide-country.inc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/addressfield/plugins/format/address-hide-country.inc
+END
+organisation.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/addressfield/plugins/format/organisation.inc
+END
+name-full.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/addressfield/plugins/format/name-full.inc
+END
+address.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/addressfield/plugins/format/address.inc
+END

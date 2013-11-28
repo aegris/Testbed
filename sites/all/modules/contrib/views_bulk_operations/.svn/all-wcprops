@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations
+END
+actions_permissions.module
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/actions_permissions.module
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/LICENSE.txt
+END
+views_bulk_operations.module
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.module
+END
+views_bulk_operations.install
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.install
+END
+actions_permissions.info
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/actions_permissions.info
+END
+views_bulk_operations.info
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.info
+END
+views_bulk_operations.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.drush.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/README.txt
+END
+views_bulk_operations.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.api.php
+END
+views_bulk_operations.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.rules.inc
+END

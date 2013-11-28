@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/staffingsolutions/!svn/ver/5/trunk/web/modules/blog
+END
+blog.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/staffingsolutions/!svn/ver/5/trunk/web/modules/blog/blog.test
+END
+blog.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/staffingsolutions/!svn/ver/5/trunk/web/modules/blog/blog.module
+END
+blog.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/staffingsolutions/!svn/ver/5/trunk/web/modules/blog/blog.install
+END
+blog.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/staffingsolutions/!svn/ver/5/trunk/web/modules/blog/blog.pages.inc
+END
+blog.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/staffingsolutions/!svn/ver/5/trunk/web/modules/blog/blog.info
+END

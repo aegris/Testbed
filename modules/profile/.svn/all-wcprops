@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile
+END
+profile.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile.admin.inc
+END
+profile-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile-wrapper.tpl.php
+END
+profile.module
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile.module
+END
+profile.install
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile.install
+END
+profile.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile.pages.inc
+END
+profile.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile.css
+END
+profile.info
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile.info
+END
+profile-listing.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile-listing.tpl.php
+END
+profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile.js
+END
+profile-block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile-block.tpl.php
+END
+profile.test
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/staffingsolutions/!svn/ver/5/trunk/web/modules/profile/profile.test
+END

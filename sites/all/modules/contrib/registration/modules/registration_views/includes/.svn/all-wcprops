@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes
+END
+registration_handler_relationship.inc
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes/registration_handler_relationship.inc
+END
+registration_handler_field_registration_link.inc
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes/registration_handler_field_registration_link.inc
+END
+registration_handler_field_entity_datetime.inc
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes/registration_handler_field_entity_datetime.inc
+END
+registration_handler_field_entity_capacity_used.inc
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes/registration_handler_field_entity_capacity_used.inc
+END
+registration_handler_field_entity_registration_status.inc
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes/registration_handler_field_entity_registration_status.inc
+END
+registration_handler_field_entity_settings_link.inc
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes/registration_handler_field_entity_settings_link.inc
+END
+registration_handler_field_registration_link_delete.inc
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes/registration_handler_field_registration_link_delete.inc
+END
+registration_handler_field_entity_capacity_total.inc
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes/registration_handler_field_entity_capacity_total.inc
+END
+registration_handler_field_registration_link_edit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/modules/registration_views/includes/registration_handler_field_registration_link_edit.inc
+END

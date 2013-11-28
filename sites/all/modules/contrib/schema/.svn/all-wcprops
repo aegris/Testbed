@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema/LICENSE.txt
+END
+schema.module
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema/schema.module
+END
+schema.install
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema/schema.install
+END
+schema.info
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema/schema.info
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema/README.txt
+END
+schema.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema/schema.drush.inc
+END

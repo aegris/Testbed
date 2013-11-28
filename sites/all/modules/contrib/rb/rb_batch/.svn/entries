@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions/trunk/web/sites/all/modules/contrib/rb/rb_batch
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36556e00-a0cf-4d36-ac4e-503ece5862a4
+
+rb_batch.rules.inc
+file
+
+
+
+add
+
+rb_batch.module
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+rb_batch.info
+file
+
+
+
+add
+

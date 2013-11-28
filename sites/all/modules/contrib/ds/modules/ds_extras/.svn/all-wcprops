@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_extras
+END
+ds_extras.module
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_extras/ds_extras.module
+END
+ds_extras.install
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_extras/ds_extras.install
+END
+ds_extras.info
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_extras/ds_extras.info
+END
+ds_extras.ds_fields_info.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_extras/ds_extras.ds_fields_info.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/modules/ds_extras/README.txt
+END

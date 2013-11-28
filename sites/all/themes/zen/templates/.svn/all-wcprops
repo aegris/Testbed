@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates
+END
+maintenance-page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/maintenance-page.tpl.php
+END
+page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/page.tpl.php
+END
+region--footer.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/region--footer.tpl.php
+END
+block--no-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/block--no-wrapper.tpl.php
+END
+comment-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/comment-wrapper.tpl.php
+END
+comment.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/comment.tpl.php
+END
+region.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/region.tpl.php
+END
+html.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/html.tpl.php
+END
+node.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/node.tpl.php
+END
+region--sidebar.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/region--sidebar.tpl.php
+END
+user-picture.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/user-picture.tpl.php
+END
+region--no-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/region--no-wrapper.tpl.php
+END
+block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/8/trunk/web/sites/all/themes/zen/templates/block.tpl.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests/feeds_xpathparser
+END
+issues_drupal.org.htm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests/feeds_xpathparser/issues_drupal.org.htm
+END
+rewrite_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests/feeds_xpathparser/rewrite_test.xml
+END
+sample_atom_feed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests/feeds_xpathparser/sample_atom_feed.xml
+END
+sample_atom_feed_updated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/feeds_xpathparser/tests/feeds_xpathparser/sample_atom_feed_updated.xml
+END

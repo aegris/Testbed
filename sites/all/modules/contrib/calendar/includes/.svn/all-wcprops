@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/includes
+END
+calendar_plugin_style.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/includes/calendar_plugin_style.inc
+END
+calendar_plugin_row.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/includes/calendar_plugin_row.inc
+END
+calendar.views_template.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/includes/calendar.views_template.inc
+END
+calendar.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/36/trunk/web/sites/all/modules/contrib/calendar/includes/calendar.views.inc
+END

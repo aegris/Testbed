@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/job_scheduler/modules/job_scheduler_trigger
+END
+job_scheduler_trigger.module
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/job_scheduler/modules/job_scheduler_trigger/job_scheduler_trigger.module
+END
+job_scheduler_trigger.install
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/job_scheduler/modules/job_scheduler_trigger/job_scheduler_trigger.install
+END
+job_scheduler_trigger.info
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/job_scheduler/modules/job_scheduler_trigger/job_scheduler_trigger.info
+END
+job_scheduler_trigger.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/job_scheduler/modules/job_scheduler_trigger/job_scheduler_trigger.admin.inc
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/job_scheduler/modules/job_scheduler_trigger/README.md
+END

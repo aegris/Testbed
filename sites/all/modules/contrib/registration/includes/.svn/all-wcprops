@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/includes
+END
+registration.field.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/includes/registration.field.inc
+END
+registration.forms.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/includes/registration.forms.inc
+END
+registration_type.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/includes/registration_type.admin.inc
+END
+registration.entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/includes/registration.entity.inc
+END

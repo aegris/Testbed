@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/rules_scheduler
+END
+rules_scheduler.info
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/rules_scheduler/rules_scheduler.info
+END
+rules_scheduler.test
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/rules_scheduler/rules_scheduler.test
+END
+rules_scheduler.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/rules_scheduler/rules_scheduler.admin.inc
+END
+rules_scheduler.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/rules_scheduler/rules_scheduler.rules.inc
+END
+rules_scheduler.module
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/rules_scheduler/rules_scheduler.module
+END
+rules_scheduler.install
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/rules/rules_scheduler/rules_scheduler.install
+END

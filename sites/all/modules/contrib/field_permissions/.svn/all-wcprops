@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/LICENSE.txt
+END
+field_permissions.admin.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/field_permissions.admin.js
+END
+field_permissions.module
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/field_permissions.module
+END
+field_permissions.install
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/field_permissions.install
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/CHANGELOG.txt
+END
+field_permissions.info
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/field_permissions.info
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/README.txt
+END
+field_permissions.admin.css
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/field_permissions.admin.css
+END
+field_permissions.test
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/field_permissions.test
+END
+field_permissions.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/staffingsolutions/!svn/ver/38/trunk/web/sites/all/modules/contrib/field_permissions/field_permissions.admin.inc
+END

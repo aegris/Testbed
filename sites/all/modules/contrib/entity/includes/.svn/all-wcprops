@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/entity/includes
+END
+entity.ui.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/entity/includes/entity.ui.inc
+END
+entity.wrapper.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/entity/includes/entity.wrapper.inc
+END
+entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/entity/includes/entity.inc
+END
+entity.controller.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/entity/includes/entity.controller.inc
+END
+entity.property.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/entity/includes/entity.property.inc
+END

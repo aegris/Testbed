@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_simple
+END
+messaging_simple.info
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_simple/messaging_simple.info
+END
+messaging_simple.module
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_simple/messaging_simple.module
+END
+messaging_simple.install
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_simple/messaging_simple.install
+END
+messaging_simple.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/messaging/messaging_simple/messaging_simple.inc
+END

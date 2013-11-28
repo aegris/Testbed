@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access
+END
+content_access.module
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/content_access.module
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/LICENSE.txt
+END
+content_access.install
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/content_access.install
+END
+content_access.css
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/content_access.css
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/CHANGELOG.txt
+END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/UPGRADE.txt
+END
+content_access.info
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/content_access.info
+END
+content_access.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/content_access.admin.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/content_access/README.txt
+END

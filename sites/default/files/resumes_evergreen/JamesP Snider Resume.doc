@@ -1,0 +1,405 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}
+{\f37\froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}{\f38\froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\f40\froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\f41\froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\f42\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}{\f43\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}
+{\f44\froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 
+\snext0 \styrsid2192182 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar
+\tqc\tx4320\tqr\tx8640\wrapdefault\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \styrsid16663097 header;}{\s16\ql \li0\ri0\nowidctlpar
+\tqc\tx4320\tqr\tx8640\wrapdefault\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 \styrsid16663097 footer;}{\*\cs17 \additive 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2 \sbasedon10 \styrsid5590077 Hyperlink;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid-1\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat0
+\levelspace0\levelindent0{\leveltext\'01*;}{\levelnumbers;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listname ;}\listid-2}}{\*\listoverridetable{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 }}\ls1}}{\*\rsidtbl \rsid69282\rsid82575\rsid481165\rsid1055330\rsid1379887\rsid1654183\rsid2192182\rsid2251327\rsid2953767
+\rsid3964601\rsid4527349\rsid4673540\rsid4869160\rsid4992695\rsid5515027\rsid5524225\rsid5590077\rsid5710029\rsid5856411\rsid5856465\rsid6231568\rsid6239548\rsid6251781\rsid6375820\rsid6510491\rsid7097613\rsid7144676\rsid7275240\rsid7765845\rsid8285349
+\rsid8616011\rsid8797160\rsid8933825\rsid8939327\rsid9052941\rsid9836653\rsid10168243\rsid11151906\rsid11272670\rsid11497442\rsid11560481\rsid11823286\rsid11953369\rsid12087778\rsid12452580\rsid12585052\rsid12650962\rsid12985474\rsid13586782\rsid13659205
+\rsid13836963\rsid13899552\rsid14046720\rsid14502593\rsid14575924\rsid14953036\rsid15413125\rsid15947717\rsid15953979\rsid16329690\rsid16335848\rsid16663097}{\*\generator Microsoft Word 11.0.0000;}{\info{\author James Snider}{\operator Jim}
+{\creatim\yr2005\mo2\dy8\hr7\min52}{\revtim\yr2011\mo5\dy10\hr9\min47}{\printim\yr2005\mo10\dy11\hr20\min49}{\version72}{\edmins695}{\nofpages5}{\nofwords1764}{\nofchars10058}{\*\company CAD Concepts}{\nofcharsws11799}{\vern24611}{\*\password 00000000}}
+{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}{\xmlns2 urn:schemas-microsoft-com:office:smarttags}}\paperw12240\paperh15840\margl518\margr1267\margt432\margb360\gutter288\ltrsect 
+\widowctrl\ftnbj\aenddoc\donotembedsysfont0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120
+\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot5710029 \fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup0{\*\docvar {ColorPos}{-1}}{\*\docvar {ColorSet}{-1}}
+{\*\docvar {StylePos}{-1}}{\*\docvar {StyleSet}{-1}}{\*\ftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid69282 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid69282 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid69282 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\psz1\pgnrestart\linex0\headery0\footery432\pgbrdropt32\sectdefaultcl\sectrsid2251327\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx5544\tqr\tx11088\wrapdefault\faauto\adjustright\rin0\lin0\itap0 
+\rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid69282 
+\par }}{\footerr \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx5544\tqr\tx11088\wrapdefault\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \kerning0\insrsid69282 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid16329690 \rtlch\fcs1 
+\af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\kerning28\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid16329690                                                                   }{\rtlch\fcs1 
+\ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid69282 JAMES P. SNIDER}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282\charrsid16329690 
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid5590077 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 726 E. Timberbrook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid82575 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid82575 {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}Shelbyville{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Indiana{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PostalCode}}46176}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 {\*\xmlclose}{\*\xmlclose}
+{\*\xmlclose}
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid5590077 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Cell (317) 529-1707}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2\insrsid69282 Jsnider}{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2\insrsid82575 500@yahoo.com}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\keepn\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 OBJECTIVE\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 
+To provide a service that would utilize my creative skills and thorough knowledge of the}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid16663097  }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 ARCHITECTURAL}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \fs22\insrsid69282  Industry. 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\ul\insrsid6510491\charrsid6510491 _________________________________________________________________________________________}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\ul\insrsid69282\charrsid6510491 
+
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\keepn\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid16663097 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 WORK }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\fs22\insrsid69282\charrsid16663097 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\keepn\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 SUMMARY
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid69282 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 Strong knowledge of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 Architectural Concepts and Design
+
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid11497442 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid11497442 Met equivalent Board of Architects intern development }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 
+\b\fs22\insrsid11497442\charrsid11497442 Record Of Experience}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid8939327 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid11560481\charrsid11560481 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \fs22\insrsid11560481\charrsid11560481 Stud}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \fs22\insrsid11560481 y}{\rtlch\fcs1 
+\ab\af0\afs22 \ltrch\fcs0 \fs22\insrsid11560481\charrsid11560481 ing }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \fs22\insrsid11560481 for}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11560481  LEED Exam}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 
+\b\fs22\insrsid10168243 , }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \fs22\insrsid10168243\charrsid10168243 missed test by 2 points}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \fs22\insrsid11560481\charrsid10168243 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid8939327 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid8939327 Company}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\fs22\insrsid8939327\charrsid8939327  Photographer}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \fs22\insrsid11497442  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid13836963 of Architectural Interiors and Exteriors}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid15953979\charrsid7275240 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid7275240 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0\pararsid7275240 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid7275240 Strong knowledge of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid7275240 
+Packaging and Display Design}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid7275240\charrsid7275240 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid7275240 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0\pararsid7275240 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid7275240 Strong knowledge of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid7275240 
+EPS manufacturing equipment}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid7275240\charrsid7275240 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid7275240 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0\pararsid7275240 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid7275240 Strong knowledge of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid7275240 
+Injection mold design}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid7275240\charrsid7275240 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid15953979 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid15953979 Member of the }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\fs22\insrsid15947717\charrsid15947717 
+{\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}Indiana{\*\xmlclose}{\*\xmlclose} }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\fs22\insrsid15947717 MU }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\fs22\insrsid15947717\charrsid15947717 
+Photographers Club}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\fs22\insrsid13836963\charrsid15947717  }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11497442\charrsid15947717 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid69282 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 Over }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid8939327 25}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\fs22\insrsid69282  years of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 AutoCAD
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid6251781\charrsid6251781 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \fs22\insrsid6251781\charrsid6251781 Basic}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid6251781  Revit Training
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid69282 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 Knowledge of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid8939327 CAD}{\rtlch\fcs1 \ab\af0\afs22 
+\ltrch\fcs0 \b\fs22\insrsid69282  Rendering and 3D Solids}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid69282 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 Boma Lease Plan Calculations
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid69282 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 Knowledge of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 CAD / {\*\xmlopen\xmlns2{\factoidname 
+place}}CAM{\*\xmlclose} / CNC
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid69282 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 Strong knowledge of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 EIFS systems}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \fs22\insrsid69282  ( STO, Dryvit, Senergy, etc.)
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid2251327\charrsid2251327 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \fs22\insrsid2251327\charrsid2251327 Knowledge of}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid2251327 
+ EPS Tapered Roof Systems}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid2251327 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid69282 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 Knowledge of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 Komo & Heian, Northwood Routers}{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\kerning28\insrsid69282 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li2520\ri0\nowidctlpar\tx2520\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnf3\pnstart1\pnindent360 {\pntxtb \'b7}}\faauto\ls1\adjustright\rin0\lin2520\itap0\pararsid2251327 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 Inventor of }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 computerized Styro-Lathe
+
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\keepn\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid6510491 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\ul\insrsid6510491\charrsid6510491 
+ _________________________________________________________________________________________ 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\keepn\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 WORK 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 EXPERIENCE
+\par }\pard \ltrpar\ql \fi-90\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid6375820 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid8939327 \tab CAD Manager / Company Photographer}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\insrsid6375820 \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6375820 Brenner Design}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid6375820 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid6375820 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid6375820 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8939327 5/08}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid6375820  to 5/11\tab \tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Indianapolis{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Indiana
+{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par \tab Assi
+sted with others in producing architectural drawing sets. Creating floor plans, elevations, enlarged plans, details, etc. Responsible for Boma Lease plans with multiple and single tenants. Responsible for receiving electronic cad documents to audit and up
+d
+ate layer standards. Responsible for training new employees on CAD and company standards. Helped new employees daily with CAD questions or problems they might be having. Maintained CAD standards and Layer Standards. Also solved some minor computer Problem
+s. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3964601 Use}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15413125 d my Photography background}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568  for Web site photography}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15413125 
+ of Projects @ }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15413125  HYPERLINK "http://www.Brennerdesign.com" }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5856411 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000160000007700770077002e004200720065006e006e0065007200640065007300690067006e002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b5400000068007400740070003a002f002f007700770077002e006200720065006e006e006500
+7200640065007300690067006e002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab00000000000000}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs17\ul\cf2\insrsid15413125\charrsid1654183 www.Brennerdesign.com}}}\sectd 
+\psz1\pgnrestart\linex0\headery0\footery432\pgbrdropt32\sectdefaultcl\sectrsid2251327\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid15413125   }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid6375820 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 
+\par }\pard \ltrpar\ql \fi-90\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid11497442 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11497442 \tab Project Coordinator\tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid11497442 Precept Design}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11497442 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid11497442 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11497442 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8939327 6/06 to 5/08}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11497442 \tab \tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Indianapolis{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State
+}}Indiana{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12452580 Assisted with others in producing architectural drawing sets. Creating floor plans, elevations, enlarged plans, details, etc. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11497442 
+Responsible for following project through completion. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12452580 Projects experience includes, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid12452580\charrsid2192182 Department Of Child Servic}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\insrsid2192182\charrsid2192182 es}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2192182  New Facility, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid2192182\charrsid2192182 Hampton Inn Hotels}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12452580 
+, Seals Ambulance Service, Rosewalk Commons Assisted Living, Westview Nursing }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13586782 Facility.}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11497442 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11497442 
+\par }\pard \ltrpar\ql \fi-90\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab CAD Manager\tab \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Brenner Design}{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid12650962 3/02 to 6/06}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid69282 \tab \tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Indianapolis{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Indiana
+{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid7097613 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab Assisted with others in producing architectural drawing sets. C
+reating floor plans, elevations, enlarged plans, details, etc. Responsible for Boma Lease plans with multiple and single tenants. Responsible for receiving electronic cad documents to audit and update layer standards. Responsible for training new employee
+s on CAD and company standards. Helped new employees daily with CAD questions or problems they might be having. Maintained CAD standards and Layer Standards. Also solved some minor computer Problems. Project experience includes, }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\insrsid69282\charrsid2192182 Purdue\rquote s}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid12585052\charrsid2192182  University}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid69282\charrsid2192182  E-Enterp
+rise, Union Federal Banks, Union Planters Banks, Amo Interurban Renovation}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 . }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid1055330 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid4527349 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid2251327\charrsid5590077 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid5590077                      }{\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid16329690 
+                          }{\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid69282 JAMES P. SNIDER
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid6231568 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 726 E. Timberbrook
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid82575 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}Shelbyville{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Indiana{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PostalCode}}46176{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Cell (317) 529-1707
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2\insrsid69282 Jsnider}{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2\insrsid82575 500@yahoo.com}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\keepn\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\ul\insrsid6510491\charrsid6510491 
+_________________________________________________________________________________________}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\ul\insrsid69282\charrsid6510491 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 WORK 
+\par EXPERIENCE
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 (cont.)
+\par }\pard \ltrpar\ql \fi-90\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid6231568 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11497442 \tab }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid6231568 CAD / 3D Renderings\tab \tab 
+\tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 SLW Architects}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid6231568 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid6231568 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid6231568 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 5/01 to 3/02\tab \tab 
+\tab \tab \tab \tab Zionsville, Indiana
+\par \tab Assisted with others in producing architectural drawing sets for timberframe/panelized residential homes. Creating floorplans, elevations, enlarged plans, etc. Responsible for 3D renderings created from solids for visual presentation.}{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \insrsid6231568\charrsid6231568 
+\par }\pard \ltrpar\ql \fi-90\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid11497442 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid6231568 
+\par   }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11497442 CAD / 3D Renderings\tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11497442 Modular Devices Inc.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11497442 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid11497442 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11497442 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11497442 9/01 to 3/02\tab \tab 
+\tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}Carmel{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}Indiana{\*\xmlclose}{\*\xmlclose}
+\par \tab Assisted with others in producing architectural drawing sets for Mobile Cardiac Labs. Creating floorplans, elevations, sections, etc. Responsible for 3D renderings created from solids for visual presentation. Also updated older drawings int
+o CAD format, helped setup new standards.}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11497442 
+\par 
+\par }\pard \ltrpar\ql \fi-90\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid11497442 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11497442  \tab }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11497442 CAD / Renderings
+\tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11497442 Schenkel Shultz Architects}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11497442 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid11497442 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11497442 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11497442 3/00 to 5/01\tab \tab 
+\tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}Indianapolis{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}Indiana{\*\xmlclose}{\*\xmlclose}
+\par \tab Assisted with others in producing architectural drawing sets. Creating casework drawings, elevations, refle
+cted ceiling plans, enlarged plans, etc. Responsible for 3D renderings created from solids and applying materials and lighting which were generated from floor plans and elevations. Also responsible for building models of ideas and site plans. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid11497442 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid11497442 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab Project Manager\tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Hamilton{\*\xmlclose}{\*\xmlclose} Exhibits}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 11/99 to 2/00\tab \tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}Indianapolis{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Indiana{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\ql \fi-90\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab 
+Responsible for project bids, following a project through the course of production. Meeting with sales to determine customers needs and purpose of exhib
+it. Producing work orders and material requisitions for exhibit construction. All drawings are produced with AutoCAD in solids and detailed renderings are generated for client approval.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par 
+\par  CAD / Estimator\tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Little Construction}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 3/98 to 10/99\tab \tab \tab \tab \tab \tab 
+{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Greenfield{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Indiana{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par \tab Responsible for Project bids, and designs for commercial and residential buildings. Responsible for steel stud of Fedderlight panel layout for EIFS systems in panels Construction.}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 
+\par }\pard \ltrpar\ql \fi-90\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282   Plant Manager  / Estimator\tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+Treadway Industries}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 4/96 to 3/98\tab \tab \tab \tab \tab \tab 
+{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Shelbyville{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Indiana{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par \tab Bid potential jobs and work directly with customers when ordering unique architectural shapes. Schedule and program orders for production on 2D CNC cutters. Train personnel to operate CNC cutters, 
+Binks high-pressure spray equipment, and CNC lathe. Work directly with production manager to help keep job cost down while maintaining a quality product. Control inventories and orders supplies when needed. Projects include:  }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\insrsid69282\charrsid12585052 Movie Sets}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 , }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid69282\charrsid12585052 1996 Olympics}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 , }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\insrsid69282\charrsid12585052 Casinos}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 , }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid69282\charrsid12585052 Athletic stores}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 , }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\insrsid69282\charrsid12585052 Themed Environments}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 , and Dimensional signage.}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 CAD Manager / Programmer}{\rtlch\fcs1 
+\ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab \tab \tab }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid12985474                }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Knauf Polystyrene}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 10/93 to 4/96\tab \tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}Lebanon{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Ohio{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\ql \fi-2250\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab 
+Manage CAD department with responsibilities including: Program all CAD work, quote special items such as signage, hand sculpted work, and projects with a lot of detail, and schedule all CAD orders. Supervised employees and trained them in CNC cutting. In 
+charge of quality control with department products.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \li4320\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin4320\itap0\pararsid16329690 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16329690 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14502593 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2251327 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14502593 
+\par }\pard \ltrpar\ql \fi720\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid16329690 {\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid16329690                                           JAMES P. SNIDER
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid6231568 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 726 E. Timberbrook
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid82575 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16329690 {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}Shelbyville{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Indiana{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PostalCode}}46176{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid16329690 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16329690 Cell (317) 529-1707
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid16329690 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16329690                                                                                         }{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \ul\cf2\insrsid16329690 Jsnider}{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2\insrsid82575 500@yahoo.com}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16329690 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6510491       __________________________________________________________________________________________________}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid16329690 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\keepn\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid16329690 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid16329690 WORK 
+\par EXPERIENCE
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid16329690 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid16329690 (cont.)
+\par }\pard \ltrpar\ql \fi-1980\li2160\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2160\itap0\pararsid6231568 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid6231568 Co-Owner / Manag
+ement / Production}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid6231568 \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}Florida{\*\xmlclose}{\*\xmlclose} Foam Products}{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid6231568 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid6231568 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 10/91 to 10/93\tab \tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}Ocala{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Florida{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\ql \fi-2250\li2160\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2160\itap0\pararsid6231568 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 \tab 
+After joining this newly formed company, business increased by 400% over a year because of my existing knowledge in this industry. Used AutoCAD to design
+ and produce commercial and residential architectural products including Tapered Fluted Columns, Bases and Capitals for Columns, Window Fans, Cornices, and Display work, etc. Clients included Plastering contractors, }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\insrsid6231568\charrsid12585052 Museum services}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 , }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid6231568\charrsid12585052 Walt Disney World}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568  and }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\insrsid6231568\charrsid12585052 Universal Studios}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 . Used CAD / {\*\xmlopen\xmlns2{\factoidname place}}CAM{\*\xmlclose}
+ which is linked to Tri-Manufacturing cutting equipment to produce fabricated parts. Recommended various methods to fulfill customers\rquote  design needs. Responsibilities were all aspects of running a business.
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0\pararsid16329690 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 
+\par }\pard \ltrpar\ql \fi-1980\li2160\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2160\itap0\pararsid16329690 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 CAD Operator / Designer}{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Contour Products
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 12/87 to 3/91}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+Division of Contour Packaging
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282  \tab \tab \tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}Kansas City{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}Kansas{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\ql \fi-2250\li2160\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2160\itap0\pararsid16329690 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab Used AutoCAD to design an effective and protective packaging for items including }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid13899552 A}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid69282\charrsid13899552 ppliances,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid13899552 P}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\insrsid69282\charrsid13899552 harmaceutical}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13899552 s}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282  and }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid13899552 C}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\insrsid69282\charrsid13899552 omputer}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13899552 s}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 . }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4869160 HP, Roche, Shoreline. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+Used CAD / {\*\xmlopen\xmlns2{\factoidname place}}CAM{\*\xmlclose}
+, which is linked to a micropath cutting machine located in the plant, to produce fabricated parts, i.e. packaging, logos, displays and architectural EPS shapes. Collaborated with customers in determining packaging 
+needs whether fabricated or custom molded. Built prototype for testing and customer approval then produced drawings for production. Accomplishments
+\par \tab Developed usage of CAD/CAM to directly relate to micropath computer in plant. Instructed other companies (on location) in the operations and usage of their CAD / {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}CAM
+{\*\xmlclose}{\*\xmlclose} software and hardware bought from our company.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14953036 
+\par }\pard \ltrpar\ql \li2160\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2160\itap0\pararsid16329690 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16663097  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16329690 
+\par }\pard \ltrpar\ql \fi-1881\li2151\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2151\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 \tab CAD operator}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab \tab \tab \tab \tab 
+\tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Omni International
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 6/87 to 8/87}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+Fike Fire Suppression
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282  \tab \tab \tab \tab \tab \tab \tab 
+{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Blue Springs{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}MO{\*\xmlclose}{\*\xmlclose}
+{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\ql \fi-2151\li2151\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2151\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab Responsible
+ for producing graphic artwork of floor plans to show location of Halon smoke detectors with LED\rquote s.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid16329690 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid16329690 
+\par }\pard \ltrpar\ql \li2160\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2160\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 Builder}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 \tab \tab \tab \tab \tab \tab \tab }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Quality Wood Products}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }\pard \ltrpar\ql \fi-90\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 5/83 to 1/86\tab \tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname 
+place}}{\*\xmlopen\xmlns2{\factoidname City}}Kansas City{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}Missouri{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\ql \li2160\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2160\itap0\pararsid6231568 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Built unique home furnishings from basic sketches and dim
+ensions, including roll top desks, fireplace mantles, wet bars, plate rails, light boxes for kitchen islands, wood edge counter tops, and entertainment centers. Made kitchen, bar, and bath displays for the home show at Bartle Hall.
+\par }\pard \ltrpar\ql \li0\ri0\keepn\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6239548       __________________________________________________________________________________________________}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 EDUCATION}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282\charrsid16329690 
+\par \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282\charrsid16329690 {\*\xmlopen\xmlns2{\factoidname PlaceName}}{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Platt{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceType}}
+{\*\xmlopen\xmlns2{\factoidname City}}College{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Overland Park{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}Kansas{\*\xmlclose}
+{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}\tab 
+\par \tab Drafting and Technology\tab \tab \tab \tab July, 1987
+\par \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\insrsid69282\charrsid16329690 Major courses and skills included:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282\charrsid16329690 
+\par \tab CAD Programming\tab \tab \tab \tab \tab Mechanical drawing
+\par \tab Drafting and Technology\tab \tab \tab \tab Algebra and Trigonometry
+\par \tab  
+\par 
+\par \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\insrsid69282\charrsid16329690 Special class drawing projects included:
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282\charrsid16329690 \tab Multi-view drawings\tab \tab \tab \tab \tab Pictorial drawings
+\par \tab Assembly drawings\tab \tab \tab \tab \tab Development drawings
+\par \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14575924 Good eye for detail                                                                    }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282\charrsid16329690 Sketching of 3D objects
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin2250\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282\charrsid16329690 \tab \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14575924  }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282\charrsid16329690 
+\par }\pard \ltrpar\ql \li0\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin0\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid6231568 {\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid1055330 
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid69282 JAMES P. SNIDER
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid6231568 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 726 E. Timberbrook
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid82575 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}Shelbyville{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}Indiana{\*\xmlclose}{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PostalCode}}{\*\xmlopen\xmlns2{\factoidname City
+}}46176{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\qc \fi630\li0\ri108\nowidctlpar\wrapdefault\faauto\adjustright\rin108\lin0\itap0\pararsid11272670 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Cell (317) 529-1707
+\par }\pard \ltrpar\qc \li0\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282           }{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2\insrsid69282 Jsnider}{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2\insrsid82575 
+500@yahoo.com}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin2250\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 
+\par 
+\par }\pard \ltrpar\ql \li0\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin0\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid6239548      __________________________________________________________________________________________}{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 REFERENCES
+\par & PORTFOLIO
+\par \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 Pictures of actual work that I produce through previous employers.
+\par \tab Available upon request.
+\par }\pard \ltrpar\ql \li0\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282                       \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid6239548 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid6239548 
+      __________________________________________________________________________________________________}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid69282 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri0\keepn\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin2250\itap0 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid69282 REFERENCES
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid1055330 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 \tab \tab \tab Chuck Knapp}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13659205 \tab \tab \tab \tab \tab  }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 Dave Bass
+\par \tab \tab \tab Architect}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13659205 \tab \tab \tab \tab \tab  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 Procurement Solutions Manager
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13659205 \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14575924 {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Indianapolis{\*\xmlclose}{\*\xmlclose}, IN}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid13659205 \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14575924  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 HP
+\par \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14575924 (317) 640-2144}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13659205 \tab \tab \tab \tab \tab  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 {\*\xmlopen\xmlns2{\factoidname City}}
+{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Indianapolis{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}IN{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6231568 \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13659205 \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14575924                }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13659205  }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 (317) 340-4095
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 
+\par }\pard \ltrpar\ql \fi720\li1440\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin1440\itap0\pararsid11823286 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 Bill Raguse\tab \tab \tab \tab \tab Tom Ringham
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid11823286 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 \tab \tab \tab Retail Developer\tab \tab \tab \tab \tab Associate
+\par \tab \tab \tab Street Corner Group\tab \tab \tab \tab Schenkel Shultz Architecture
+\par \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}Indianapolis{\*\xmlclose}, IN\tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Indianapolis{\*\xmlclose}, 
+{\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}IN{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\ql \fi720\li1440\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin1440\itap0\pararsid11823286 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14575924 (317)  716-4143}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 \tab \tab \tab \tab }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14575924                }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 (317) 574-6975}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 
+\par }\pard \ltrpar\ql \fi720\li1440\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin1440\itap0\pararsid11823286 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 Jeff Green
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid11823286 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 \tab \tab \tab GSM 
+\par \tab \tab \tab ADT\tab  
+\par \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Carmel{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}IN{\*\xmlclose}
+{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\ql \fi-90\li2250\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin2250\itap0\pararsid11823286 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 (317) 816-2469
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab \tab \tab Dave Marr\tab \tab \tab \tab \tab Tim Feagan
+\par \tab \tab \tab Estimator\tab \tab \tab \tab \tab President
+\par \tab \tab \tab Sellers roofing\tab \tab \tab \tab \tab Team Industries
+\par \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}Kansas City{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}MO{\*\xmlclose}{\*\xmlclose}\tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}
+{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Grand Rapids{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}Michigan{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par \tab \tab \tab (816) 459-1300\tab \tab \tab \tab \tab (616) 698-2001
+\par 
+\par }\pard \ltrpar\ql \fi720\li1440\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin1440\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 Bill Lassiter\tab \tab \tab \tab \tab Mike Mitchell
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab \tab \tab General Manager\tab \tab \tab \tab \tab Sales
+\par \tab \tab \tab Knauf Polystyrene\tab \tab \tab \tab N P S Corporation
+\par \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}Lebanon{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}OH{\*\xmlclose}{\*\xmlclose}\tab \tab \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}
+{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Perryville{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}MO{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par \tab \tab \tab (513) 932-6923\tab \tab \tab \tab \tab (800) 888-2332
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin2250\itap0 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\insrsid69282 
+\par }\pard \ltrpar\ql \fi720\li1440\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin1440\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 Joe Delisio\tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab \tab \tab Falcon Foundry\tab \tab \tab \tab \tab 
+\par \tab \tab \tab  2}{\rtlch\fcs1 \af0 \ltrch\fcs0 \super\insrsid69282 nd}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282  Shift\tab \tab \tab \tab \tab \tab 
+\par \tab \tab \tab {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Lowellville{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}Ohio{\*\xmlclose}
+{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}\tab \tab \tab \tab \tab 
+\par }\pard \ltrpar\ql \fi-90\li2250\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin2250\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 (330) 536-6221\tab \tab \tab \tab \tab 
+\par 
+\par }\pard \ltrpar\ql \fi720\li1440\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin1440\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 Jerry Phillips\tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 \tab \tab \tab President\tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par \tab \tab \tab Ph}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 illip\rquote s Interior & Exteriors\tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 \tab  
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11823286 \tab \tab \tab O\rquote Fallon, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Ill{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}\tab \tab \tab 
+\tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }\pard \ltrpar\ql \fi-90\li2250\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin2250\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 (618) 628-0131\tab \tab \tab \tab \tab  
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid69282 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid1055330 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 \tab \tab \tab \tab \tab \tab \tab 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2251327 
+\par }\pard \ltrpar\qc \fi630\li0\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin0\itap0\pararsid2192182 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 \tab }{\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid2192182 JAMES P. SNIDER
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2192182 726 E. Timberbrook
+\par {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}Shelbyville{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}Indiana{\*\xmlclose}{\*\xmlclose} 
+{\*\xmlopen\xmlns2{\factoidname PostalCode}}{\*\xmlopen\xmlns2{\factoidname City}}46176{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }\pard \ltrpar\qc \fi630\li0\ri108\nowidctlpar\wrapdefault\faauto\adjustright\rin108\lin0\itap0\pararsid2192182 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2192182 Cell (317) 529-1707
+\par }\pard \ltrpar\qc \li0\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin0\itap0\pararsid2192182 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2192182           }{\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2\insrsid2192182 Jsnider500@yahoo.com}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \fs22\insrsid2192182 
+\par }\pard \ltrpar\ql \li0\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin0\itap0\pararsid6239548 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6239548       
+___________________________________________________________________________________________________}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2192182 
+\par }\pard \ltrpar\ql \fi-1980\li2250\ri-90\nowidctlpar\wrapdefault\faauto\adjustright\rin-90\lin2250\itap0\pararsid2192182 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\fs22\insrsid2192182 LIST OF PROJECTS
+\par \tab \tab 
+\par }\pard \ltrpar\ql \fi720\li1440\ri0\nowidctlpar\wrapdefault\faauto\adjustright\rin0\lin1440\itap0\pararsid2192182 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2192182 Disney\rquote s All Star Resort}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1055330 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2192182 Universal Studios Themed Enviroments
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11953369 Movie Set Prop, The Crow, For Richer For Poorer, People vs. Larry Flint
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2192182 Daytona 500 Museum Cars of the Past & Props
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8285349 Kansas City Station Casino}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2192182 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8285349 {\*\xmlopen\xmlns2{\factoidname City}}St.{\*\xmlclose} Charles Casino
+\par Kids R Us Themed Enviroments
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8285349\charrsid8285349 1996 Olympics}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8285349  Event Props
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5856465 {\*\xmlopen\xmlns2{\factoidname PlaceName}}{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Purdue{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceType}}
+{\*\xmlopen\xmlns2{\factoidname City}}University{\*\xmlclose}{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceName}}{\*\xmlopen\xmlns2{\factoidname City}}Mann{\*\xmlclose}{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceType}}
+{\*\xmlopen\xmlns2{\factoidname City}}Building}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8285349 {\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5856465 {\*\xmlopen\xmlns2{\factoidname PlaceName}}{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Purdue{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceType}}
+{\*\xmlopen\xmlns2{\factoidname City}}University{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose} Mackey Arena Expansion
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5515027 The National Bank Of {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Indianapolis}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5856465 {\*\xmlclose}{\*\xmlclose}
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5515027 Union Planters Bank
+\par Hampton Inn of {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Greensburg{\*\xmlclose}{\*\xmlclose}
+\par New Castle Historic Preservation
+\par Attica {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Indiana{\*\xmlclose}{\*\xmlclose}{\*\xmlclose} Historic Preservation
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8797160\charrsid8797160 Arts Council of {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Indianapolis}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8797160 {\*\xmlclose}{\*\xmlclose}
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8797160\charrsid8797160 Gruene House
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5524225 Photograph being used NCAA Basketball Hall Of Fame as 16\rquote x30\rquote  area rug}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5515027 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9052941 Photographer of Company Projects}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid9052941\charrsid8285349 
+\par }}

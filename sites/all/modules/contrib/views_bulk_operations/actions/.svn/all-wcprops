@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/actions
+END
+archive.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/actions/archive.action.inc
+END
+argument_selector.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/actions/argument_selector.action.inc
+END
+delete.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/actions/delete.action.inc
+END
+user_roles.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/actions/user_roles.action.inc
+END
+script.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/actions/script.action.inc
+END
+modify.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/staffingsolutions/!svn/ver/45/trunk/web/sites/all/modules/contrib/views_bulk_operations/actions/modify.action.inc
+END

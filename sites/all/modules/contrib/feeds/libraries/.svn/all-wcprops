@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/libraries
+END
+http_request.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/libraries/http_request.inc
+END
+ParserCSV.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/libraries/ParserCSV.inc
+END
+common_syndication_parser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/libraries/common_syndication_parser.inc
+END
+PuSHSubscriber.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/libraries/PuSHSubscriber.inc
+END
+opml_parser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/libraries/opml_parser.inc
+END

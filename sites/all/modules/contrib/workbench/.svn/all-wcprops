@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/LICENSE.txt
+END
+workbench.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/workbench.api.php
+END
+workbench.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/workbench.admin.inc
+END
+workbench.module
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/workbench.module
+END
+workbench.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/workbench.pages.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/README.txt
+END
+workbench.theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/workbench.theme.inc
+END
+workbench.info
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/workbench.info
+END
+workbench.pages_default.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/workbench/workbench.pages_default.inc
+END

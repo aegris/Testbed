@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration
+END
+registration.install
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/registration.install
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/LICENSE.txt
+END
+registration.info
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/registration.info
+END
+registration.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/registration.js
+END
+registration.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/registration.api.php
+END
+registration.test
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/registration.test
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/README.txt
+END
+registration.module
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/staffingsolutions/!svn/ver/35/trunk/web/sites/all/modules/contrib/registration/registration.module
+END

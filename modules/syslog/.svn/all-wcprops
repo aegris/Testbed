@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/staffingsolutions/!svn/ver/5/trunk/web/modules/syslog
+END
+syslog.module
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/staffingsolutions/!svn/ver/5/trunk/web/modules/syslog/syslog.module
+END
+syslog.install
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/staffingsolutions/!svn/ver/5/trunk/web/modules/syslog/syslog.install
+END
+syslog.info
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/staffingsolutions/!svn/ver/5/trunk/web/modules/syslog/syslog.info
+END
+syslog.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/staffingsolutions/!svn/ver/5/trunk/web/modules/syslog/syslog.test
+END

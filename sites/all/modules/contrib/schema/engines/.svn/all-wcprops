@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema/engines
+END
+mysql.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema/engines/mysql.inc
+END
+pgsql.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/schema/engines/pgsql.inc
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds
+END
+feeds.info
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/feeds.info
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/LICENSE.txt
+END
+feeds.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/feeds.tokens.inc
+END
+feeds.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/feeds.api.php
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/CHANGELOG.txt
+END
+feeds.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/feeds.rules.inc
+END
+feeds.module
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/feeds.module
+END
+feeds.install
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/feeds.install
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/README.txt
+END
+feeds.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/feeds.pages.inc
+END
+feeds.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/feeds.css
+END
+feeds.plugins.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/22/trunk/web/sites/all/modules/contrib/feeds/feeds.plugins.inc
+END

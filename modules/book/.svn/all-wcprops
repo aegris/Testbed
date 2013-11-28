@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book
+END
+book-export-html.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book-export-html.tpl.php
+END
+book.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book.install
+END
+book-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book-rtl.css
+END
+book.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book.pages.inc
+END
+book.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book.css
+END
+book-node-export-html.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book-node-export-html.tpl.php
+END
+book.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book.info
+END
+book.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book.js
+END
+book-all-books-block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book-all-books-block.tpl.php
+END
+book.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book.test
+END
+book.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book.admin.inc
+END
+book-navigation.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book-navigation.tpl.php
+END
+book.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/staffingsolutions/!svn/ver/5/trunk/web/modules/book/book.module
+END

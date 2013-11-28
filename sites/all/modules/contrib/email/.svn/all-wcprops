@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/email
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/email/LICENSE.txt
+END
+email.info
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/email/email.info
+END
+email.feeds.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/email/email.feeds.inc
+END
+email.migrate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/email/email.migrate.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/email/README.txt
+END
+email.module
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/email/email.module
+END
+email.install
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/email/email.install
+END

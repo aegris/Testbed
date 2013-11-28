@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/tests
+END
+aggregator_test_atom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/tests/aggregator_test_atom.xml
+END
+aggregator_test_rss091.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/tests/aggregator_test_rss091.xml
+END
+aggregator_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/tests/aggregator_test.module
+END
+aggregator_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/staffingsolutions/!svn/ver/5/trunk/web/modules/aggregator/tests/aggregator_test.info
+END

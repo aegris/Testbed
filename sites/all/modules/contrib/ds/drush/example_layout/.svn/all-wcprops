@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/drush/example_layout
+END
+example_layout.css
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/drush/example_layout/example_layout.css
+END
+example_layout.inc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/drush/example_layout/example_layout.inc
+END
+example-layout.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/drush/example_layout/example-layout.tpl.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/drush/example_layout/README.txt
+END
+example_layout.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/drush/example_layout/example_layout.png
+END
+example_layout-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/staffingsolutions/!svn/ver/50/trunk/web/sites/all/modules/contrib/ds/drush/example_layout/example_layout-rtl.css
+END

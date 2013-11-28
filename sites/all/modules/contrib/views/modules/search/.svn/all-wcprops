@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/views/modules/search
+END
+views_handler_field_search_score.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/views/modules/search/views_handler_field_search_score.inc
+END
+views_handler_argument_search.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/views/modules/search/views_handler_argument_search.inc
+END
+views_handler_sort_search_score.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/views/modules/search/views_handler_sort_search_score.inc
+END
+views_plugin_row_search_view.inc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/views/modules/search/views_plugin_row_search_view.inc
+END
+views_handler_filter_search.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/staffingsolutions/!svn/ver/7/trunk/web/sites/all/modules/contrib/views/modules/search/views_handler_filter_search.inc
+END

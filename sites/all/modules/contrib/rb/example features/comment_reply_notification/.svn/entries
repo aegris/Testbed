@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions/trunk/web/sites/all/modules/contrib/rb/example%20features/comment_reply_notification
+https://GoCosmonaut@gocosmonaut.svn.beanstalkapp.com/staffingsolutions
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36556e00-a0cf-4d36-ac4e-503ece5862a4
+
+notify_on_comment_replies.features.field.inc
+file
+
+
+
+add
+
+notify_on_comment_replies.rules_defaults.inc
+file
+
+
+
+add
+
+notify_on_comment_replies.info
+file
+
+
+
+add
+
+notify_on_comment_replies.module
+file
+
+
+
+add
+
